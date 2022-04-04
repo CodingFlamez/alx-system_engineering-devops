@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /tmp/0x02$ | tr 'Ac' 'Ze'
+echo /tmp/0x02$ | tr 'A' 'Z' | tr 'c' 'e'
